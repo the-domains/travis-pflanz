@@ -1,6 +1,6 @@
 name: Travis Pflanz
 favicon: null
-layout_spectrum: 0.11821822705678642
+layout_spectrum: 0.59986
 typography_spectrum: 0.39507149532437325
 title: "Travis's Test of The Grid"
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.06002638931386173
+    - '#ffffff'
+    - '#00ccf1'
+    - '#414445'
+    - '#afeefa'
+    - '#828585'
+  brandStrength: 0.5
   lightness: 0.1397904739715159
-  saturation: 0.35388976242393255
+  saturation: 0.5
   rhythmicContrast: 0.5279612487647682
 purpose: []
